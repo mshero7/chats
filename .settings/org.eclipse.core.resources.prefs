@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/cafe24/network/chat/client/ChatClientApp.java=UTF-8
+encoding//src/main/java/com/cafe24/network/chat/client/ChatClientReadThread.java=UTF-8
+encoding//src/main/java/com/cafe24/network/chat/client/ChatWindow.java=UTF-8
+encoding//src/main/java/com/cafe24/network/chat/server/ChatServerApp.java=UTF-8
+encoding//src/main/java/com/cafe24/network/chat/server/ChatServerThread.java=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
